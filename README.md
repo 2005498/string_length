@@ -1,5 +1,5 @@
 #include<stdio.h>
-int findlength(const char*);
+int findlength(const char *ptr);
     int main() 
 	{
 	  char s1[]="jagruti";
