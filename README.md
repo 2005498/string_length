@@ -1,8 +1,6 @@
 #include<stdio.h>
 int findlength(const char*);
-	
-
-int main() 
+    int main() 
 	{
 	  char s1[10]="jagruti";
 	  int n=findlength(s1);
